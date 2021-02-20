@@ -1,0 +1,25 @@
+    vcc GND
+    CSN CE
+    MOSI SCk
+    IRQ MISO
+
+NRF	Arduino uno
+
+vcc    3.3v
+GND    GND
+MOSI   11 
+MISO   12 
+SCK    13 
+CE     9
+CSN    10
+
+
+NRF     ESP8266
+
+vcc    3.3v
+GND    GND
+MOSI   D7
+MISO   D6
+SCK    D5 
+CE     D4
+CSN    D8
